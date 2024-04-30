@@ -28,7 +28,7 @@ This project is licensed under [MIT](./LICENSE). For more details, see the `LICE
 
 Simon Alriksosn - [Gmail](simon.alriksson@elev.ntig.se)
 
-Project Link: [https://github.com/Simon-nti-it21/TODO_list_efter_projektet](https://github.com/Simon-nti-it21/TODO_list_efter_projektet)
+Project Link: [https://github.com/Simon-nti-it21/Adoptera-ett-husdjur](https://github.com/Simon-nti-it21/Adoptera-ett-husdjur)
 
 ## Acknowledgments
 
